@@ -8,7 +8,7 @@ idna==2.10
 lxml==4.6.1
 macholib==1.14
 modulegraph==0.18
-Pillow==8.0.0
+Pillow>=8.1.1
 py2app==0.22
 pytesseract==0.3.6
 python-docx==0.8.10
